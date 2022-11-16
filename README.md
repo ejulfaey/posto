@@ -1,3 +1,3 @@
-# posto_app
+# Posto
 
 An online publishing platform
